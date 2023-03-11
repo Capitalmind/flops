@@ -19,7 +19,7 @@ git clone https://github.com/your-username/sysbench-cpu-performance.git
 cd sysbench-cpu-performance
 
 3. Make the script executable:
-chmod +x cpu-performance.sh
+chmod +x flops.sh
 
 4. Run the script:
 
